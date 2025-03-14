@@ -1,0 +1,15 @@
+.footer{
+    background-color: #C1D8D9;
+    padding-left: 90vh;
+
+}
+.navBar{
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.links{
+    list-style-type:none;
+    display:flex;
+}
+
